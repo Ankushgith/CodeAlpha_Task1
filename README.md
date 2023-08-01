@@ -1,5 +1,3 @@
-I am thrilled to announce that I have successfully completed Task 1 of the Personal Portfolio Internship with Code Alpha! This achievement marks a significant milestone in my internship journey.
-
 In this project, I utilized HTML, CSS, and JavaScript to create a personal portfolio. I implemented various features, leveraging the power of these technologies to showcase my skills and accomplishments effectively.
 
 In my project, I created five sections to build my personal portfolio website. The first section is the Home section, which provides a brief introduction about me and includes a photo of myself. Additionally, I added a button in this section, allowing visitors to download my CV (Curriculum Vitae) for more detailed information about my qualifications and experiences.
